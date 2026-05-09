@@ -17,4 +17,4 @@ cd ~/NEKO-
 curl -LO https://raw.githubusercontent.com/sandar18705-del/NEKO-/main/bypasst.py
 
 echo -e "\033[92m[✔] အောင်မြင်စွာ ထည့်သွင်းပြီးပါပြီ!\033[0m"
-echo -e "\033[93mအသုံးပြုရန်: cd ~/NEKO- && python bypasst.py \033[0m"
+echo -e "\033[93mအသုံးပြုရန်: cd ~/NEKO && python bypasst.py \033[0m"
